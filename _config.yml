@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
+title: My Hexo Blog
+subtitle: My Development Methods
+description: Notes on development style and methods I have found useful.
 author: Des Reilly
-email:
+email: des.reilly@gmail.com
 language: en-GB
 
 # URL
@@ -74,7 +74,7 @@ per_page: 10
 pagination_dir: page
 
 # Disqus
-disqus_shortname:
+disqus_shortname: ewd
 
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
